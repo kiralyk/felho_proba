@@ -1,2 +1,2 @@
-#A print parancs kiír a konzólra
+#Ez egy új komment
 print("Lefutott a progi")
